@@ -1,1 +1,2 @@
-# fe-fundamentals-challenge
+# fa-fundamentals-challenge
+Front End Fundamentals Challenge
